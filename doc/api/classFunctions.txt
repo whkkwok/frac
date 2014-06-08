@@ -1,0 +1,26 @@
+	def __init__ ( self, numerator, denominator=1, carrier=0 ):
+	def num ( self ):
+	def den ( self ):
+	def car ( self ):
+	def tuple ( self ):
+	def compare ( self, other ):
+	def rawString ( self ):
+	def toString ( self ):
+	def tofloatString ( self, decPlaces=4 ):
+	def __float__ ( self ):
+	def __pow__ ( self, pwr ):
+	def __rpow__ ( self, pwr ):
+	def __str__ ( self ):
+	def __neg__ ( self ):
+	def recip ( self ):
+	def __invert__ ( self ):
+	def __div__ ( self, other ):
+	def __rdiv__ ( self, other ):
+	def __mul__ ( self, other ):
+	def __add__ ( self, other ):
+	def __sub__ ( self, other ):
+	def __rsub__ ( self, other ):
+	def __cmp__ ( self, other ):
+	def __int__ ( self ):
+	def __abs__ ( self ):
+	def __castFraction ( self, operand ):	
